@@ -1,2 +1,2 @@
 # github-urlrewrite
-Simple URL rewrite for Github pages
+A very Simple URL rewrite for Github pages to put in your static site
